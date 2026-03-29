@@ -88,31 +88,9 @@ I'm a Big Data and Artificial Intelligence (BDIA) student at ENSA Tétouan, pass
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
 
----
 
-## GitHub Stats
 
-<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aabaidsoulaimane&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=aabaidsoulaimane&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aabaidsoulaimane&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=aabaidsoulaimane&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-</div>
-
----
 
 ## Connect With Me
 
