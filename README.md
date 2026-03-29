@@ -103,8 +103,3 @@ I'm a Big Data and Artificial Intelligence (BDIA) student at ENSA Tétouan, pass
 
 ---
 
-<div align="center">
-
-![Profile Views](https://visitcount.itsvg.in/api?id=aabaidsoulaimane&icon=0&color=6)
-
-</div>
